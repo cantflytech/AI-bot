@@ -88,10 +88,3 @@ POST /api/fiche (generate_qcm)    → Génération automatique d’un QCM
 - 📄 Affiche la fiche de cours scrappée
 
 ---
-
-## 🎓 Réalisé par
-
-Projet final IABOT - DIGI4 – Epitech Digital School  
-Développé par [TON NOM]
-
----
